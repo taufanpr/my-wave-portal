@@ -8,4 +8,5 @@ typechain
 cache
 artifacts
 
+.env
 hardhat.config.js
